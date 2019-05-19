@@ -1,0 +1,5 @@
+dolphin: {}
+game:
+  main_file: /home/mark-rodgers/Games/ROMs/GC/Star Wars - Bounty Hunter.iso
+  platform: '0'
+system: {}

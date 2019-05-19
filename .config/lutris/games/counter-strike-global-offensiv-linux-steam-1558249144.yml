@@ -1,0 +1,5 @@
+game:
+  appid: '730'
+steam:
+  steam_native_runtime: true
+system: {}
