@@ -1,2 +1,5 @@
 [credential]
 	helper = store
+[user]
+	email = mark@markrodgers.design
+	name = Mark Rodgers
