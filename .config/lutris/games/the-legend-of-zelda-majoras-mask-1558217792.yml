@@ -1,0 +1,6 @@
+game:
+  core: mupen64plus
+  main_file: /home/mark-rodgers/Games/ROMs/N64/Legend of Zelda, The - Majora's Mask
+    (U) [!].v64
+libretro: {}
+system: {}
