@@ -1,0 +1,5 @@
+game:
+  core: ppsspp
+  main_file: /home/mark-rodgers/Games/ROMs/PSP/Grand Theft Auto - Liberty City Stories.cso
+libretro: {}
+system: {}
