@@ -174,6 +174,9 @@ mode "resize" {
 
 bindsym $mod+r mode "resize"
 
+bindsym F12 exec "zsh ~/.config/rofi/menu/SEARCH"
+bindsym F11 exec "zsh ~/.config/rofi/menu/SYSTEM"
+
 # disable borders on all windows
 for_window [class=".*"] border pixel 0
 

@@ -2,7 +2,7 @@
 # /home/mark-rodgers/.nvidia-settings-rc
 #
 # Configuration file for nvidia-settings - the NVIDIA X Server Settings utility
-# Generated on Sun May 19 02:17:16 2019
+# Generated on Sun May 19 13:28:39 2019
 #
 
 # ConfigProperties:
@@ -27,7 +27,7 @@ gandalf:0.0/FXAA=0
 gandalf:0.0/AllowFlipping=1
 gandalf:0.0/FSAAAppControlled=1
 gandalf:0.0/LogAnisoAppControlled=1
-gandalf:0.0/OpenGLImageSettings=0
+gandalf:0.0/OpenGLImageSettings=1
 gandalf:0.0/FSAAAppEnhanced=0
 gandalf:0.0/AllowGSYNC=1
 gandalf:0.0/AllowVRR=1
