@@ -1,0 +1,5 @@
+dolphin: {}
+game:
+  main_file: /home/mark-rodgers/Games/ROMs/GC/Legend of Zelda, The - Twilight Princess.iso
+  platform: '0'
+system: {}
