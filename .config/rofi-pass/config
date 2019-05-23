@@ -33,7 +33,7 @@ layout_cmd () {
 
 # fields to be used
 URL_field='url'
-USERNAME_field='user'
+USERNAME_field='username'
 AUTOTYPE_field='autotype'
 
 # delay to be used for :delay keyword
@@ -57,7 +57,7 @@ BROWSER='xdg-open'
 default_do='menu' # menu, autotype, copyPass, typeUser, typePass, copyUser, copyUrl, viewEntry, typeMenu, actionMenu, copyMenu, openUrl
 auto_enter='false'
 notify='false'
-default_autotype='user :tab pass'
+default_autotype='username :tab pass'
 
 # color of the help messages
 # leave empty for autodetection
@@ -82,7 +82,7 @@ edit_new_pass="true"
 
 # Custom Keybindings
 autotype="Alt+1"
-type_user="Alt+2"
+type_username="Alt+2"
 type_pass="Alt+3"
 open_url="Alt+4"
 copy_name="Alt+u"

@@ -45,8 +45,11 @@ bindsym --release $mod+F12 exec scrot '/tmp/%F_%T.png' -e 'xclip -selection clip
 # screenshot selection
 bindsym --release $mod+F11 exec scrot -s '/tmp/%F_%T.png' -e 'xclip -selection clipboard -target image/png -i $f'
 
-# start rofi run
+# start rofi
 bindsym $mod+d exec "rofi -combi-modi window#drun -show combi -modi combi -show-icons"
+
+# start rofi-pass
+bindsym $mod+slash exec "rofi-pass"
 
 # There also is the (new) i3-dmenu-desktop which only displays applications
 # shipping a .desktop file. It is a wrapper around dmenu, so you need that
