@@ -8,3 +8,4 @@ text/html=firefox-developer-edition.desktop;
 
 [Default Applications]
 x-scheme-handler/discord-455712169795780630=discord-455712169795780630.desktop
+application/uproject=com.epicgames.UnrealEngineEditor.desktop
