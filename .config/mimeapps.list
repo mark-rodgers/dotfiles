@@ -1,7 +1,7 @@
 [Added Associations]
 image/jpeg=feh.desktop;
 image/png=feh.desktop;
-text/plain=visual-studio-code.desktop;nvim.desktop;
+text/plain=nvim.desktop;
 video/mp4=vlc.desktop;
 image/x-tga=feh.desktop;
 text/html=firefox-developer-edition.desktop;
