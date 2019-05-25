@@ -51,6 +51,9 @@ bindsym $mod+d exec "rofi -combi-modi window#drun -show combi -modi combi -show-
 # start rofi-pass
 bindsym $mod+slash exec "rofi-pass"
 
+# i3lock
+bindsym $mod+Shift+Escape exec "i3lock -i ~/Pictures/Wallpapers/Ultrawide/C3os16P.png"
+
 # There also is the (new) i3-dmenu-desktop which only displays applications
 # shipping a .desktop file. It is a wrapper around dmenu, so you need that
 # installed.
