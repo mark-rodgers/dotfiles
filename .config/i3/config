@@ -39,7 +39,6 @@ bindsym $mod+Shift+f exec firefox-developer-edition
 bindsym $mod+q kill
 
 # screenshot desktop
-# bindsym --release $mod+Print kill
 bindsym --release $mod+F12 exec scrot '/tmp/%F_%T.png' -e 'xclip -selection clipboard -target image/png -i $f'
 
 # screenshot selection
@@ -50,6 +49,9 @@ bindsym $mod+d exec "rofi -combi-modi window#drun -show combi -modi combi -show-
 
 # start rofi-pass
 bindsym $mod+slash exec "rofi-pass"
+
+# start rofi-power
+bindsym $mod+Ctrl+Shift+Escape exec "~/.config/rofi/rofi-power.sh"
 
 # i3lock
 bindsym $mod+Shift+Escape exec "i3lock -i ~/Pictures/Wallpapers/Ultrawide/C3os16P.png"
