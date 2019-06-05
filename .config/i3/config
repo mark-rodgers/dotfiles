@@ -39,10 +39,10 @@ bindsym $mod+Shift+f exec firefox-developer-edition
 bindsym $mod+q kill
 
 # screenshot desktop
-bindsym --release $mod+F12 exec scrot '/tmp/%F_%T.png' -e 'xclip -selection clipboard -target image/png -i $f'
+bindsym --release $mod+F11 exec sharenix -m="fs" -c -n
 
 # screenshot selection
-bindsym --release $mod+F11 exec scrot -s '/tmp/%F_%T.png' -e 'xclip -selection clipboard -target image/png -i $f'
+bindsym --release $mod+F12 exec sharenix-section -c -n
 
 # start rofi
 bindsym $mod+d exec "rofi -combi-modi window#drun -show combi -modi combi -show-icons"
