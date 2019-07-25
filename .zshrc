@@ -86,6 +86,15 @@ else
   export EDITOR='nvim'
 fi
 
+# Perforce
+export P4USER=mark-rodgers
+export P4PORT=ssl:p4.lostcoastgamestudios.com:1666
+
+#devkitPro
+DEVKITPRO=/opt/devkitpro
+DEVKITARM=/opt/devkitpro/devkitARM
+DEVKITPPC=/opt/devkitpro/devkitPPC
+
 # Compilation flags
 # export ARCHFLAGS="-arch x86_64"
 

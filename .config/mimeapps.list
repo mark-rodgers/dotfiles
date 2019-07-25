@@ -1,11 +1,26 @@
 [Added Associations]
-image/jpeg=feh.desktop;
-image/png=feh.desktop;
-text/plain=nvim.desktop;
+image/jpeg=gimp.desktop;feh.desktop;
+image/png=gimp.desktop;feh.desktop;
+text/plain=visual-studio-code.desktop;org.qt-project.qtcreator.desktop;nvim.desktop;
 video/mp4=vlc.desktop;
 image/x-tga=feh.desktop;
 text/html=firefox-developer-edition.desktop;
+text/csv=libreoffice-calc.desktop;krita_csv.desktop;
+application/uproject=com.epicgames.UnrealEngineEditor.desktop;
+application/x-kdevelop=org.kde.kdevelop_kdev4.desktop;
+audio/x-wav=vlc.desktop;
+video/x-matroska=vlc.desktop;
+application/pdf=firefox-developer-edition.desktop;
+video/x-flv=vlc.desktop;
+application/zip=userapp-"unzip"-KW093Z.desktop;userapp-"unzip $1"-KDN53Z.desktop;
+image/bmp=gimp.desktop;
+application/x-blender=blender.desktop;
+video/quicktime=vlc.desktop;
 
 [Default Applications]
 x-scheme-handler/discord-455712169795780630=discord-455712169795780630.desktop
 application/uproject=com.epicgames.UnrealEngineEditor.desktop
+text/plain=visual-studio-code.desktop
+application/pdf=firefox-developer-edition.desktop
+x-scheme-handler/mailspring=mailspring.desktop
+image/png=feh.desktop
